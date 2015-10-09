@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1e7f3c4d-4270-4973-adcf-d39beea58a94++3542",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1e7f3c4d-4270-4973-adcf-d39beea58a94++3542" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1e7f3c4d-4270-4973-adcf-d39beea58a94++3542" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49540053-C405-4EA3-85AD-A20C98C516AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1e7f3c4d-4270-4973-adcf-d39beea58a94++3542" : "Appinionated_iOS"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Appinionated",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Appinionated.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/appinstitute.svn.beanstalkapp.com\/appinstitute2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1e7f3c4d-4270-4973-adcf-d39beea58a94++3542"
+    }
+  ]
+}
